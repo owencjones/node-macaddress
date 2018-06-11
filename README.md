@@ -1,7 +1,7 @@
 node-macaddress
 ===============
 
-[![Build Status](https://travis-ci.org/scravy/node-macaddress.svg?branch=master)](https://travis-ci.org/scravy/node-macaddress)
+The safer version.  It was found that Scravy's version of this had a command injection vulnerability, so I've written this one to remove it.
 
 Retrieve MAC addresses in Linux, OS X, and Windows.
 
